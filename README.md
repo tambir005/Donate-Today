@@ -1,3 +1,3 @@
 live link
 
-https://github.com/tambir005/Donate-Today.git
+ https://tambir005.github.io/Donate-Today/
